@@ -14,7 +14,7 @@ Konqueror can utilize all KIOslaves installed on the user's system. Some example
 * HTTP browser
 * IMAP mail client
 * ISO (CD image) viewer
-* VNC viewer
+* VNC viewer  
 A complete list is available in the KDE Info Center's Protocols section.
 
 Intended Upgrades:  
