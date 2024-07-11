@@ -19,6 +19,7 @@ A complete list is available in the KDE Info Center's Protocols section.
 
 Intended Upgrades:  
 * Add Web Serial API Support
+* Add WebExtensions API Support
 * Add Simple Markdown Editor
 * Add Matrix Viewer & Manipulator
 * Add Color Syntax to Hexadecimal in Files
