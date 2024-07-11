@@ -1,3 +1,5 @@
+# Konquer: Live & Reloaded
+
 This is a fork of KDE Konqueror intended to be upgraded and improved for future-proof web browsing and file manipulation.   
 
 Initial release  
@@ -27,3 +29,4 @@ Intended Upgrades:
 * Set All File Types to Appropriately Open in New Tabs
 * Improve Themeability and Customization Options
 * Implement Default Ad-Blocking & Blacklisting
+* Windowed Open-As Integration (Other Programs inside Konquer)
