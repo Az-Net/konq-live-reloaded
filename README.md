@@ -26,3 +26,4 @@ Intended Upgrades:
 * Add Unique Icons for All Common File Types
 * Set All File Types to Appropriately Open in New Tabs
 * Improve Themeability and Customization Options
+* Implement Default Ad-Blocking & Blacklisting
