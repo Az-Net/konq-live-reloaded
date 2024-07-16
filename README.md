@@ -22,11 +22,4 @@ A complete list is available in the KDE Info Center's Protocols section.
 Intended Upgrades:  
 * Add Web Serial API Support
 * Add WebExtensions API Support
-* Add Simple Markdown Editor
-* Add Matrix Viewer & Manipulator
-* Add Color Syntax to Hexadecimal in Files
-* Add Unique Icons for All Common File Types
-* Set All File Types to Appropriately Open in New Tabs
-* Improve Themeability and Customization Options
-* Implement Default Ad-Blocking & Blacklisting
-* Windowed Open-As Integration (Other Programs inside Konquer)
+* Add Matrix Array Viewer
